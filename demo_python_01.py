@@ -10,7 +10,8 @@ age = 25
 # Print variables
 print("My name is", name)
 print("I am", age, "years old")
-# Simple function
+
+# Simple function
 def add_numbers(a, b):
     return a + b
 
