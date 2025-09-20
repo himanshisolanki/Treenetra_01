@@ -1,3 +1,5 @@
+# Basic Python program
+
 # Print a message
 print("Hello, World!")
 
@@ -7,6 +9,3 @@ age = 25
 
 # Print variables
 print("My name is", name)
-print("I am", age, "years old")
-# Demo Session First Code
-# First code
